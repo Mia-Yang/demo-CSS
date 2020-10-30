@@ -39,3 +39,17 @@ h1 {
 }
 
 /* Your CSS below here */
+
+h1 {
+  background-image: url(logo.png);
+}
+
+article {
+  background: 
+  linear-gradient(0deg, rgba(0,0,0,.2), rgba(240, 240, 241, 0.007),rgba(0,0,0,.2) ),
+  url(top-image.png) top no-repeat,
+  url(bottom-image.png) bottom no-repeat,
+  white;
+}
+
+
